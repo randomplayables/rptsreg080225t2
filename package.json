@@ -1,0 +1,21 @@
+{
+  "name": "number-guess-gauntlet",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A Gauntlet player-vs-player number guessing game built with Vite, React, and TypeScript for the RandomPlayables platform.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6",
+    "vite": "^4.4.9",
+    "@vitejs/plugin-react": "^4.0.0"
+  },
+  "license": "MIT"
+}
